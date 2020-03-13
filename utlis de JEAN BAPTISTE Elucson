@@ -1,0 +1,43 @@
+(base) jean-baptiste.elucson@etu.umontpellier.fr@d24:~$ jupyter-notebook
+[I 18:12:24.856 NotebookApp] JupyterLab extension loaded from /net/apps/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 18:12:24.856 NotebookApp] JupyterLab application directory is /net/apps/anaconda3/share/jupyter/lab
+[I 18:12:24.862 NotebookApp] Serving notebooks from local directory: /home/e20190015023
+[I 18:12:24.862 NotebookApp] The Jupyter Notebook is running at:
+[I 18:12:24.862 NotebookApp] http://localhost:8888/?token=e566826a1351e21860f3a1102e180c33001e4b451183f41a
+[I 18:12:24.862 NotebookApp]  or http://127.0.0.1:8888/?token=e566826a1351e21860f3a1102e180c33001e4b451183f41a
+[I 18:12:24.862 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:12:24.877 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/e20190015023/.local/share/jupyter/runtime/nbserver-5782-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=e566826a1351e21860f3a1102e180c33001e4b451183f41a
+     or http://127.0.0.1:8888/?token=e566826a1351e21860f3a1102e180c33001e4b451183f41a
+[E 18:12:26.271 NotebookApp] Could not open static file ''
+[W 18:12:26.330 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 8.70ms referer=http://localhost:8888/tree?token=e566826a1351e21860f3a1102e180c33001e4b451183f41a
+[W 18:12:30.995 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 3.24ms referer=http://localhost:8888/notebooks/HMMA238_TP_elucsonjeanbaptiste%20%20EJB.ipynb
+[W 18:12:31.031 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.88ms referer=http://localhost:8888/notebooks/HMMA238_TP_elucsonjeanbaptiste%20%20EJB.ipynb
+[I 18:12:31.591 NotebookApp] Kernel started: 05605871-26c5-49db-846a-c3d0fef8bcb5
+[I 18:12:32.610 NotebookApp] Adapting from protocol version 5.1 (kernel 05605871-26c5-49db-846a-c3d0fef8bcb5) to 5.3 (client).
+[I 18:13:18.576 NotebookApp] Starting buffering for 05605871-26c5-49db-846a-c3d0fef8bcb5:4c7b85c4aa924ce18261d887dc2df802
+[W 18:13:20.763 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.98ms referer=http://localhost:8888/notebooks/HMMA238_TP_elucsonjeanbaptiste%20%20EJB.ipynb
+[W 18:13:20.791 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.43ms referer=http://localhost:8888/notebooks/HMMA238_TP_elucsonjeanbaptiste%20%20EJB.ipynb
+[I 18:13:21.318 NotebookApp] Adapting from protocol version 5.1 (kernel 05605871-26c5-49db-846a-c3d0fef8bcb5) to 5.3 (client).
+[I 18:13:39.179 NotebookApp] Starting buffering for 05605871-26c5-49db-846a-c3d0fef8bcb5:bcca3cf0c4b846f393d867a6787354d0
+[W 18:13:41.636 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.26ms referer=http://localhost:8888/notebooks/HMMA238_TP_elucsonjeanbaptiste%20%20EJB.ipynb
+[W 18:13:41.673 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.63ms referer=http://localhost:8888/notebooks/HMMA238_TP_elucsonjeanbaptiste%20%20EJB.ipynb
+[I 18:13:42.204 NotebookApp] Adapting from protocol version 5.1 (kernel 05605871-26c5-49db-846a-c3d0fef8bcb5) to 5.3 (client).
+[I 18:15:42.169 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  EJB.ipynb
+[I 18:17:42.178 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  EJB.ipynb
+[I 18:19:42.176 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  EJB.ipynb
+[I 18:21:42.172 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  EJB.ipynb
+[I 18:22:45.140 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  EJB.ipynb
+[I 18:23:42.175 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  .ipynb
+[I 18:25:42.164 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  .ipynb
+[I 18:27:42.174 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  .ipynb
+[I 18:29:42.174 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  .ipynb
+[I 18:31:42.172 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  .ipynb
+[I 18:33:42.166 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  .ipynb
+[I 18:35:14.851 NotebookApp] Saving file at /HMMA238_TP_elucsonjeanbaptiste  .ipynb
+[I 18:35:26.785 NotebookApp] Starting buffering for 05605871-26c5-49db-846a-c3d0fef8bcb5:b359ba93cce447c384f7a02e99a4ddcf
+
